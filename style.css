@@ -762,18 +762,18 @@
                                 
                                 @media only screen and (max-device-width: 490px) {
                                     .showcase {
-                                        height: 70vh;
+                                        height: 80vh;
                                     }
                                     .showcase-content {
-                                        margin-top: 1rem;
+                                        margin-top: 0.5rem;
                                     }
                                     .showcase-top img {
                                         width: 100px;
-                                        left: 20%;
+                                        left: 25%;
                                     }
                                     .showcase-top a {
-                                        left: 80%;
-                                        padding: 0.4rem 0.6rem;
+                                        left: 81%;
+                                        padding: 0.4rem 0.4rem;
                                     }
                                     .showcase-content h1 {
                                         font-size: 1.7rem;
